@@ -10,3 +10,7 @@ Nicholas Challinor
 Renee Braddock
 
 Ethan Goh
+
+Exercise 01
+
+Exercise 02
