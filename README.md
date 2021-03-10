@@ -14,6 +14,8 @@ Ethan Goh
 
 # Exercise 01
 
+Find the most convenient path from Silo Park to Business School
+
 ### Understand
 
 * Do we have to use only roads?
@@ -37,6 +39,8 @@ Ethan Goh
 * Making sure we have found the most convenient/efficient route
 
 # Exercise 02
+
+Given three integer values, display them in ascending order
 
 ### Understand
 
