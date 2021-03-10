@@ -13,7 +13,6 @@ Renee Braddock
 Ethan Goh
 
 # Exercise 01
-Steps:
 
 ### Understand
 
