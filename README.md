@@ -1,3 +1,7 @@
 # lab-02-ez-lab
-lab-02-ez-lab created by GitHub Classroom
-
+Names:
+Jack McGrath
+Helen Vincent
+Nicholas Challinor
+Renee Braddock
+Ethan Goh
