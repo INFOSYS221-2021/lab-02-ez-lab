@@ -1,5 +1,5 @@
 # lab-02-ez-lab
-Names:
+Names:<br>
 
 Jack McGrath
 
